@@ -15,7 +15,7 @@
 }
 
 #chapter-2-1 table:first-of-type tr:first-of-type td:last-child{
-	border-left: 1px solid black;
+	border-left: 1px solid;
 }
 
 #chapter-2-27 blockquote p{
