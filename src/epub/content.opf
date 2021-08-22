@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/charles-dickens/little-dorrit</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-08-22T19:05:01Z</dc:date>
+		<meta property="dcterms:modified">2021-08-22T19:05:01Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -55,18 +55,18 @@
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">sh2009122931</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A man returns to his home from a long period spent working in China and tries to assist a family forced to live in a debtor’s prison.</dc:description>
+		<dc:description id="description">After returning home from a long period spent working in China, a man tries to assist a family forced to live in a debtor’s prison.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Little Dorrit&lt;/i&gt;, like many of &lt;a href="https://standardebooks.org/ebooks/charles-dickens"&gt;Charles Dickens&lt;/a&gt;’ novels, was originally published in serial form over a period of about 18 months, before appearing in book form in 1857.&lt;/p&gt;
-			&lt;p&gt;The novel concentrates on the experiences of its protagonist Arthur Clenham, who has spent some twenty years in China helping his father run the family business there. After his father dies, Arthur returns home to London. His mother gives him little in the way of welcome. She is a cold, bitter woman who has brought Arthur up under a strict religious regime concentrating on the punitive aspects of the Old Testament. Despite this upbringing, or perhaps in reaction to it, Arthur is a kind, considerate man. He is intrigued by a slight young woman he encounters working as a part-time seamstress for his mother, who his mother calls simply “Little Dorrit.” He discovers that Little Dorrit lives in the Marshalsea Debtors’ Prison, where her father has been imprisoned for over 25 years. In fact, she was born in the prison. Arthur senses some mystery about her mother’s employment of Little Dorrit, and proceeds to investigate. His efforts draw him closer to the Dorrit family and eventually lead to a significant change in their circumstances.&lt;/p&gt;
-			&lt;p&gt;There are several sub-plots in the book, and a whole host of characters. Compared to some of Dickens’ work, &lt;i&gt;Little Dorrit&lt;/i&gt; features a good deal of intrigue and tension. There are also some strong strands of humour, in the form of the fictional “Circumlocution Office,” whose sole remit is “How Not To Do It,” and which stands in the way of any improvement of British life. Also very amusing are the rambling speeches of Flora, a woman with whom Arthur was enamoured before he left for China, but whose shallowness he now perceives only too well. In contrast, as in so many of Dickens’ novels, the eponymous heroine is made out to be a flawless saint. While there are at least two strong female characters in the book, they are portrayed in a very negative manner.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Little Dorrit&lt;/i&gt; has been adapted for the screen many times, most recently by the BBC in 2010, in a limited television series which featured Claire Foy as Little Dorrit, Matthew Macfayden as Arthur Clenham and Andy Serkis as the villain Rigaud.&lt;/p&gt;
+			&lt;p&gt;The novel focuses on the experiences of its protagonist Arthur Clenham, who has spent some twenty years in China helping his father run the family business there. After his father dies, Arthur returns home to London. His mother gives him little in the way of welcome. She is a cold, bitter woman who has brought Arthur up under a strict religious regime concentrating on the punitive aspects of the Old Testament. Despite this upbringing, or perhaps in reaction to it, Arthur is a kind, considerate man. He is intrigued by a slight young woman he encounters working as a part-time seamstress for his mother, whom his mother calls simply “Little Dorrit.” Arthur senses some mystery about her mother’s employment of Little Dorrit, and proceeds to investigate.&lt;/p&gt;
+			&lt;p&gt;There are several subplots and a whole host of characters. Compared to some of Dickens’ work, &lt;i&gt;Little Dorrit&lt;/i&gt; features a good deal of intrigue and tension. There are also some strong strands of humor, in the form of the fictional “Circumlocution Office,” whose sole remit is “How Not To Do It,” and which stands in the way of any improvement of British life. Also very amusing are the rambling speeches of Flora, a woman with whom Arthur was enamored before he left for China, but whose shallowness he now perceives only too well.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Little Dorrit&lt;/i&gt; has been adapted for the screen many times, and by the BBC in 2010 in a limited television series which featured Claire Foy as Little Dorrit, Matthew Macfayden as Arthur Clenham, and Andy Serkis as the villain Rigaud.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/963</dc:source>
 		<dc:source>https://archive.org/details/littledorrit00dickrich</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">342673</meta>
+		<meta property="se:reading-ease.flesch">69.92</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Little_Dorrit</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-dickens_little-dorrit</meta>
 		<dc:creator id="author">Charles Dickens</dc:creator>
@@ -97,6 +97,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
