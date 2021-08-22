@@ -55,6 +55,8 @@
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">sh2009122931</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+￼		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">After returning home from a long period spent working in China, a man tries to assist a family forced to live in a debtor’s prison.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Little Dorrit&lt;/i&gt;, like many of &lt;a href="https://standardebooks.org/ebooks/charles-dickens"&gt;Charles Dickens&lt;/a&gt;’ novels, was originally published in serial form over a period of about 18 months, before appearing in book form in 1857.&lt;/p&gt;
