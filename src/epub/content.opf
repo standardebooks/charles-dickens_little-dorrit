@@ -67,7 +67,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/963</dc:source>
 		<dc:source>https://archive.org/details/littledorrit00dickrich</dc:source>
-		<meta property="se:word-count">342673</meta>
+		<meta property="se:word-count">342681</meta>
 		<meta property="se:reading-ease.flesch">69.92</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Little_Dorrit</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-dickens_little-dorrit</meta>
