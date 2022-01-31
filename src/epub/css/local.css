@@ -10,8 +10,8 @@
 }
 
 #chapter-2-1 td p{
-	text-indent: 0;
 	padding-left: 1em;
+	text-indent: 0;
 }
 
 #chapter-2-1 table:first-of-type tr:first-of-type td:last-child{
@@ -19,9 +19,9 @@
 }
 
 #chapter-2-27 blockquote p{
+	font-variant: small-caps;
 	text-align: center;
 	text-indent: 0;
-	font-variant: small-caps;
 }
 
 #chapter-2-27 blockquote p b{
